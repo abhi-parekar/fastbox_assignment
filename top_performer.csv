@@ -1,0 +1,12 @@
+source_file,agent,packages_delivered,total_distance,efficiency
+base_case.json,A3,1,14.14,14.14
+test_case_1.json,A1,4,75.83,18.96
+test_case_2.json,A1,10,534.05,53.4
+test_case_3.json,A3,3,60.95,20.32
+test_case_4.json,A3,5,103.75,20.75
+test_case_5.json,A3,7,200.17,28.6
+test_case_6.json,A3,4,82.56,20.64
+test_case_7.json,A3,6,105.44,17.57
+test_case_8.json,A1,1,25.24,25.24
+test_case_9.json,A3,2,25.4,12.7
+test_case_10.json,A4,6,77.55,12.92

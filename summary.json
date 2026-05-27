@@ -1,0 +1,263 @@
+{
+    "total_test_cases": 11,
+    "overall_best_agent": {
+        "agent": "A3",
+        "test_case": "test_case_9",
+        "efficiency": 12.7
+    },
+    "results_by_test_case": {
+        "base_case": {
+            "A1": {
+                "packages_delivered": 2,
+                "total_distance": 121.21,
+                "efficiency": 60.6
+            },
+            "A2": {
+                "packages_delivered": 2,
+                "total_distance": 79.21,
+                "efficiency": 39.6
+            },
+            "A3": {
+                "packages_delivered": 1,
+                "total_distance": 14.14,
+                "efficiency": 14.14
+            },
+            "best_agent": "A3"
+        },
+        "test_case_1": {
+            "A1": {
+                "packages_delivered": 4,
+                "total_distance": 75.83,
+                "efficiency": 18.96
+            },
+            "A2": {
+                "packages_delivered": 1,
+                "total_distance": 31.36,
+                "efficiency": 31.36
+            },
+            "A3": {
+                "packages_delivered": 7,
+                "total_distance": 180.99,
+                "efficiency": 25.86
+            },
+            "A4": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "best_agent": "A1"
+        },
+        "test_case_10": {
+            "A1": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "A2": {
+                "packages_delivered": 2,
+                "total_distance": 38.1,
+                "efficiency": 19.05
+            },
+            "A3": {
+                "packages_delivered": 3,
+                "total_distance": 151.89,
+                "efficiency": 50.63
+            },
+            "A4": {
+                "packages_delivered": 6,
+                "total_distance": 77.55,
+                "efficiency": 12.92
+            },
+            "best_agent": "A4"
+        },
+        "test_case_2": {
+            "A1": {
+                "packages_delivered": 10,
+                "total_distance": 534.05,
+                "efficiency": 53.4
+            },
+            "A2": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "A3": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "best_agent": "A1"
+        },
+        "test_case_3": {
+            "A1": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "A2": {
+                "packages_delivered": 2,
+                "total_distance": 75.36,
+                "efficiency": 37.68
+            },
+            "A3": {
+                "packages_delivered": 3,
+                "total_distance": 60.95,
+                "efficiency": 20.32
+            },
+            "A4": {
+                "packages_delivered": 1,
+                "total_distance": 23.23,
+                "efficiency": 23.23
+            },
+            "best_agent": "A3"
+        },
+        "test_case_4": {
+            "A1": {
+                "packages_delivered": 3,
+                "total_distance": 69.96,
+                "efficiency": 23.32
+            },
+            "A2": {
+                "packages_delivered": 4,
+                "total_distance": 133.29,
+                "efficiency": 33.32
+            },
+            "A3": {
+                "packages_delivered": 5,
+                "total_distance": 103.75,
+                "efficiency": 20.75
+            },
+            "A4": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "A5": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "best_agent": "A3"
+        },
+        "test_case_5": {
+            "A1": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "A2": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "A3": {
+                "packages_delivered": 7,
+                "total_distance": 200.17,
+                "efficiency": 28.6
+            },
+            "A4": {
+                "packages_delivered": 3,
+                "total_distance": 101.42,
+                "efficiency": 33.81
+            },
+            "A5": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "best_agent": "A3"
+        },
+        "test_case_6": {
+            "A1": {
+                "packages_delivered": 1,
+                "total_distance": 21.26,
+                "efficiency": 21.26
+            },
+            "A2": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "A3": {
+                "packages_delivered": 4,
+                "total_distance": 82.56,
+                "efficiency": 20.64
+            },
+            "A4": {
+                "packages_delivered": 4,
+                "total_distance": 99.12,
+                "efficiency": 24.78
+            },
+            "best_agent": "A3"
+        },
+        "test_case_7": {
+            "A1": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "A2": {
+                "packages_delivered": 1,
+                "total_distance": 37.66,
+                "efficiency": 37.66
+            },
+            "A3": {
+                "packages_delivered": 6,
+                "total_distance": 105.44,
+                "efficiency": 17.57
+            },
+            "A4": {
+                "packages_delivered": 3,
+                "total_distance": 61.28,
+                "efficiency": 20.43
+            },
+            "best_agent": "A3"
+        },
+        "test_case_8": {
+            "A1": {
+                "packages_delivered": 1,
+                "total_distance": 25.24,
+                "efficiency": 25.24
+            },
+            "A2": {
+                "packages_delivered": 10,
+                "total_distance": 334.34,
+                "efficiency": 33.43
+            },
+            "A3": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "A4": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "best_agent": "A1"
+        },
+        "test_case_9": {
+            "A1": {
+                "packages_delivered": 6,
+                "total_distance": 164.66,
+                "efficiency": 27.44
+            },
+            "A2": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "A3": {
+                "packages_delivered": 2,
+                "total_distance": 25.4,
+                "efficiency": 12.7
+            },
+            "A4": {
+                "packages_delivered": 0,
+                "total_distance": 0.0,
+                "efficiency": 0.0
+            },
+            "best_agent": "A3"
+        }
+    }
+}
